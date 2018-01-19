@@ -1,0 +1,35 @@
+body {
+  background-color: #3366ff;
+  color: #fff;
+  text-align: center;
+}
+h1 {
+  font-size: 50px
+  text-transform: uppercase;
+  margin-bottom: 100px;
+}
+h2 {
+  font-style: italic;
+  font-size: 30px;
+}
+h3 {
+  margin-bottom: 50px;
+}
+.trigger {
+    background-color: #24248f;
+    color: white;
+    border: solid white 5px;
+    border-radius: 12px;
+    font-size: 20px;
+    padding: 10px 30px;
+    cursor: pointer;
+}
+.tweet {
+  color: white;
+  font-size: 20px;
+  display: block;
+  margin-top: 20px;
+  padding: 0px;
+  height: 40px;
+  text-align: center;
+}
